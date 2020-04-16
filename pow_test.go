@@ -12,7 +12,7 @@ func Test_pow(t *testing.T) {
 		{
 			name: "pos",
 			args: 2,
-			want: 1,
+			want: 4,
 		},
 		{
 			name: "neg",
