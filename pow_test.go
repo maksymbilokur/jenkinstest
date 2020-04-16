@@ -11,7 +11,7 @@ func Test_pow(t *testing.T) {
 	}{
 		{
 			name: "pos",
-			args: 1,
+			args: 2,
 			want: 1,
 		},
 		{
